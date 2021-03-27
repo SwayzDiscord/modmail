@@ -32,8 +32,8 @@ async def command_prefix(bot2, message):
 
 
 bot = ModMail(
-    command_prefix=command_prefix,
-    bot_id=bot_id,
+    command_prefix=?,
+    bot_id=825273370953515018,
     cluster_id=cluster_id,
     cluster_count=cluster_count,
     version="3.0.0",
